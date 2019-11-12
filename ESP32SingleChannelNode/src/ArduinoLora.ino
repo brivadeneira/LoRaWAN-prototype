@@ -90,8 +90,10 @@ void do_send(osjob_t* j)
   else
   if (!(LMIC.opmode & OP_TXRXPEND)) 
   {
-    TempAndHumidity newValues = dht.getTempAndHumidity();
-    
+    // TempAndHumidity newValues = dht.getTempAndHumidity();
+    TempAndHumidity newValues;
+    newValues.temperature = random(40);
+    newValues.humidity = random(60,80);
     lpp.reset();
     lpp.addTemperature(1, newValues.temperature);
     lpp.addRelativeHumidity(2, newValues.humidity);
