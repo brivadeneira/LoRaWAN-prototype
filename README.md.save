@@ -8,7 +8,7 @@ This group of projects allows you to test LoRa/LoRaWAN networks from scratch.
 * Arduino UNO + Shield
 * Raspberry Pi 3 + Shield
 
-![][img/lorawannetwork.png]
+![*
 
 ## Requirements
 
@@ -16,7 +16,7 @@ This group of projects allows you to test LoRa/LoRaWAN networks from scratch.
 
 ## Instructions
 
-From VSCode and `PIO Home`, click in `Open project` option, open the `.ino` file for each project, press `Ctrl + Alt + B`, with ESP32/Arduino/Raspi connected, press `Ctrl + Alt + u`.
+From VSCode and `PIO Home`, click in `Open project` option, open the `.ino` file for each project, press `Ctrl + Alt + B`, with ESP32/Arduino/Raspi connected, click in `->` (upload)
 
 ## Projects
 

@@ -27,7 +27,7 @@ static osjob_t sendjob;
 // Schedule data trasmission in every this many seconds (might become longer due to duty
 // cycle limitations).
 // we set 10 seconds interval
-const unsigned TX_INTERVAL = 60; // Fair Use policy of TTN requires update interval of at least several min. We set update interval here of 1 min for testing
+const unsigned TX_INTERVAL = 120; // Fair Use policy of TTN requires update interval of at least several min. We set update interval here of 1 min for testing
 
 // Pin mapping according to Cytron LoRa Shield RFM
 const lmic_pinmap lmic_pins = {
