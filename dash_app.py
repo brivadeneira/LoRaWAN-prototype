@@ -100,9 +100,14 @@ dash_app.layout = html.Div([
 
 @dash_app.callback(
     dash.dependencies.Output('lora-graph', 'figure'),
-    [dash.dependencies.Input('dev-dropdown', 'value')])
+    [dash.dependencies.Input('dev-dropdown', 'value'), dash.dependencies.Input('interval-component', 'n_intervals')])
 
-def update_graph(selected_dev):
+
+#@dash_app.callback(
+#    dash.dependencies.Output('lora-graph', 'figure'),
+#    [dash.dependencies.Input('interval-component', 'n_intervals')])
+
+def update_graph(selected_dev, n):
     url_data = 'http://0.0.0.0:5000/api/mqtt/1'
     data = requests.get(url_data).json()
     options = get_options(data)
