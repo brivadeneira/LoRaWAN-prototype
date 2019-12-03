@@ -1,0 +1,7 @@
+eventlet
+json
+flask
+dash  
+dash_core_components as dcc
+dash_html_components as html
+requests
