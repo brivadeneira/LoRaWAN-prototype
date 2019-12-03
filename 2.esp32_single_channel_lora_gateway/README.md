@@ -23,3 +23,8 @@ Go to [thethingsnetwork](), register an account, go to `console` and click in `g
 * Go to `3.esp32_single_channel_lora_node`.
 
 > For more details look [vpcola](https://github.com/vpcola) guide [Vergil Cola](https://www.youtube.com/channel/UCRk1KlFXVkJXH2IKpdQsW0g).
+
+> **ERROR**: `/home/bibiana/usr/arduino-1.8.10/libraries/IBM_LMIC_framework/src/lmic/radio.c:689`
+> **SOLUCIÓN**: `nano /home/bibiana/usr/arduino-1.8.10/libraries/IBM_LMIC_framework/src/hal/hal.cpp`
+> Cambiar `SPI.begin().` por `SPI.begin(5,19,27,18);`
+> *Fuente: [Foro thethingsnetworks "BIG ESP32 / SX127x topic part 1](https://www.thethingsnetwork.org/forum/t/big-esp32-sx127x-topic-part-1/10247/130).*
