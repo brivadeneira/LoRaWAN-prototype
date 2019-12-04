@@ -2,7 +2,7 @@
 
 This projects allow you to test LoRa/LoRaWAN networks from scratch, starting with a point to point LoRa communication, then a little LoRaWAN network using two [ESP32 Oled LoRa](http://www.lilygo.cn/prod_view.aspx?TypeId=50003&Id=1137&FId=t3:50003:3) and an [arduino-uno](https://store.arduino.cc/usa/arduino-uno-rev3)
 
-Microcontrollers code in this repository is formed by forked projects made by this awsome people:
+Microcontrollers code in this repository is formed by forked projects made by this awesome people:
 
 * Aaron.Lee from HelTec AutoMation, ChengDu, China
   成都惠利特自动化科技有限公司
