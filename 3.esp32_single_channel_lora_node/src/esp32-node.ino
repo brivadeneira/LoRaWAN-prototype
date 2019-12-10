@@ -11,11 +11,11 @@
 
 
 // LoRaWAN NwkSKey, network session key
-static const PROGMEM u1_t NWKSKEY[16] = { 0xCC, 0x5B, 0xBB, 0x45, 0x3B, 0x8B, 0xD9, 0x51, 0x57, 0x72, 0x22, 0x41, 0x7C, 0x95, 0x34, 0xD1 };
+static const PROGMEM u1_t NWKSKEY[16] = { 0x56, 0xDF, 0xC3, 0x1E, 0x06, 0x6A, 0x28, 0xC4, 0x8B, 0xA8, 0x11, 0x73, 0x34, 0x70, 0x39, 0x66 };
 // LoRaWAN AppSKey, application session key
-static const u1_t PROGMEM APPSKEY[16] = { 0xDE, 0xD0, 0xDD, 0xE8, 0x2C, 0xFC, 0x28, 0x7F, 0x66, 0x90, 0x82, 0x74, 0x9B, 0x87, 0xA0, 0x35 };
+static const u1_t PROGMEM APPSKEY[16] = { 0x81, 0x83, 0x6F, 0x99, 0x4A, 0x12, 0xC9, 0x5A, 0xE2, 0x14, 0xE3, 0x65, 0x05, 0x82, 0x49, 0x22 };
 // LoRaWAN end-device address (DevAddr)
-static const u4_t DEVADDR = { 0x26011FEE };
+static const u4_t DEVADDR = { 0x2601192C };
 // These callbacks are only used in over-the-air activation, so they are
 // left empty here (we cannot leave them out completely unless
 // DISABLE_JOIN is set in config.h, otherwise the linker will complain).
@@ -27,7 +27,7 @@ static osjob_t sendjob;
 // Schedule data trasmission in every this many seconds (might become longer due to duty
 // cycle limitations).
 // we set 10 seconds interval
-const unsigned TX_INTERVAL = 20; // Fair Use policy of TTN requires update interval of at least several min. We set update interval here of 1 min for testing
+const unsigned TX_INTERVAL = 10; // Fair Use policy of TTN requires update interval of at least several min. We set update interval here of 1 min for testing
 
 // Pin mapping according to Cytron LoRa Shield RFM
 const lmic_pinmap lmic_pins = {

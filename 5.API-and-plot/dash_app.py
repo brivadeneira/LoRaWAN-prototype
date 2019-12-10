@@ -12,6 +12,7 @@ import dash_core_components as dcc
 import dash_html_components as html
 import requests
 
+import random
 
 def decode_payload(payload_raw):
     return base64.b64decode(payload_raw)
@@ -44,7 +45,8 @@ def parse_date_time(date_time):
     """
     #print(date_time)
     #return datetime.datetime.strptime(date_time, '%Y-%m-%dT%H:%M:%S.%fZ')
-    return datetime.datetime.strptime(date_time[:-4], '%Y-%m-%dT%H:%M:%S.%f')
+    return datetime.datetime.strptime(date_time[:-4], 
+                                      '%Y-%m-%dT%H:%M:%S.%f').astimezone()
 
 def get_data_from_bytes(data_bytes):
     """
@@ -53,7 +55,8 @@ def get_data_from_bytes(data_bytes):
     'Temperature : %.2f, Humidity : %.2f\r\n'
     """
     data_str = str(data_bytes).split("'")[1]
-    #temp_str = str(temp_bytes)
+    print(data_str)
+    #temp_str = str(data_bytes)
     #temp = temp_str.split("'")[1].split('= ')[1] # this parser matches with mbed sim
     if '\'' in data_str or 'x' in data_str:
         temp = 26.7

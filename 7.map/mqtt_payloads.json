@@ -1,0 +1,1600 @@
+[
+  {
+    "payload": {
+      "app_id": "fonexa", 
+      "counter": 0, 
+      "dev_id": "esp32-oled", 
+      "hardware_serial": "00A3E6EF0D78C05A", 
+      "is_retry": true, 
+      "metadata": {
+        "airtime": 56576000, 
+        "coding_rate": "4/5", 
+        "data_rate": "SF7BW125", 
+        "frequency": 902.3, 
+        "gateways": [
+          {
+            "altitude": 440, 
+            "channel": 0, 
+            "gtw_id": "eui-240ac4ffff308f78", 
+            "latitude": -33.11341, 
+            "longitude": -64.32847, 
+            "rf_chain": 0, 
+            "rssi": -97, 
+            "snr": 8, 
+            "time": "", 
+            "timestamp": 260792710
+          }
+        ], 
+        "modulation": "LORA", 
+        "time": "2019-12-09T14:26:26.689846764Z"
+      }, 
+      "payload_raw": "AWcAqgJokA==", 
+      "port": 1
+    }, 
+    "topic": "fonexa/devices/esp32-oled/up"
+  }, 
+  {
+    "payload": {
+      "app_id": "fonexa", 
+      "counter": 0, 
+      "dev_id": "arduino-uno", 
+      "hardware_serial": "00FCE00CDF7BBDE6", 
+      "is_retry": true, 
+      "metadata": {
+        "airtime": 92416000, 
+        "coding_rate": "4/5", 
+        "data_rate": "SF7BW125", 
+        "frequency": 902.3, 
+        "gateways": [
+          {
+            "altitude": 440, 
+            "channel": 0, 
+            "gtw_id": "eui-240ac4ffff308f78", 
+            "latitude": -33.11341, 
+            "longitude": -64.32847, 
+            "rf_chain": 0, 
+            "rssi": -90, 
+            "snr": 8, 
+            "time": "", 
+            "timestamp": 291391403
+          }
+        ], 
+        "modulation": "LORA", 
+        "time": "2019-12-09T14:26:57.30207268Z"
+      }, 
+      "payload_raw": "VGVtcGVyYXR1cmUgOiAyOSwgSHVtaWRpdHkgOiA4MA==", 
+      "port": 1
+    }, 
+    "topic": "fonexa/devices/arduino-uno/up"
+  }, 
+  {
+    "payload": {
+      "app_id": "fonexa", 
+      "counter": 0, 
+      "dev_id": "arduino-uno", 
+      "hardware_serial": "00FCE00CDF7BBDE6", 
+      "is_retry": true, 
+      "metadata": {
+        "airtime": 92416000, 
+        "coding_rate": "4/5", 
+        "data_rate": "SF7BW125", 
+        "frequency": 902.3, 
+        "gateways": [
+          {
+            "altitude": 440, 
+            "channel": 0, 
+            "gtw_id": "eui-240ac4ffff308f78", 
+            "latitude": -33.11341, 
+            "longitude": -64.32847, 
+            "rf_chain": 0, 
+            "rssi": -79, 
+            "snr": 9, 
+            "time": "", 
+            "timestamp": 399043619
+          }
+        ], 
+        "modulation": "LORA", 
+        "time": "2019-12-09T14:28:44.957149392Z"
+      }, 
+      "payload_raw": "VGVtcGVyYXR1cmUgOiAyOSwgSHVtaWRpdHkgOiA4MA==", 
+      "port": 1
+    }, 
+    "topic": "fonexa/devices/arduino-uno/up"
+  }, 
+  {
+    "payload": {
+      "app_id": "fonexa", 
+      "counter": 0, 
+      "dev_id": "arduino-uno", 
+      "hardware_serial": "00FCE00CDF7BBDE6", 
+      "is_retry": true, 
+      "metadata": {
+        "airtime": 92416000, 
+        "coding_rate": "4/5", 
+        "data_rate": "SF7BW125", 
+        "frequency": 902.3, 
+        "gateways": [
+          {
+            "altitude": 440, 
+            "channel": 0, 
+            "gtw_id": "eui-240ac4ffff308f78", 
+            "latitude": -33.11341, 
+            "longitude": -64.32847, 
+            "rf_chain": 0, 
+            "rssi": -86, 
+            "snr": 9, 
+            "time": "", 
+            "timestamp": 635109616
+          }
+        ], 
+        "modulation": "LORA", 
+        "time": "2019-12-09T14:32:41.01437325Z"
+      }, 
+      "payload_raw": "VGVtcGVyYXR1cmUgOiAyOSwgSHVtaWRpdHkgOiA4MA==", 
+      "port": 1
+    }, 
+    "topic": "fonexa/devices/arduino-uno/up"
+  }, 
+  {
+    "payload": {
+      "app_id": "fonexa", 
+      "counter": 0, 
+      "dev_id": "arduino-uno", 
+      "hardware_serial": "00FCE00CDF7BBDE6", 
+      "is_retry": true, 
+      "metadata": {
+        "airtime": 92416000, 
+        "coding_rate": "4/5", 
+        "data_rate": "SF7BW125", 
+        "frequency": 902.3, 
+        "gateways": [
+          {
+            "altitude": 440, 
+            "channel": 0, 
+            "gtw_id": "eui-240ac4ffff308f78", 
+            "latitude": -33.11341, 
+            "longitude": -64.32847, 
+            "rf_chain": 0, 
+            "rssi": -102, 
+            "snr": 9, 
+            "time": "", 
+            "timestamp": 682385317
+          }
+        ], 
+        "modulation": "LORA", 
+        "time": "2019-12-09T14:33:28.299769556Z"
+      }, 
+      "payload_raw": "VGVtcGVyYXR1cmUgOiAyOSwgSHVtaWRpdHkgOiA4MA==", 
+      "port": 1
+    }, 
+    "topic": "fonexa/devices/arduino-uno/up"
+  }, 
+  {
+    "payload": {
+      "app_id": "fonexa", 
+      "counter": 0, 
+      "dev_id": "arduino-uno", 
+      "hardware_serial": "00FCE00CDF7BBDE6", 
+      "is_retry": true, 
+      "metadata": {
+        "airtime": 92416000, 
+        "coding_rate": "4/5", 
+        "data_rate": "SF7BW125", 
+        "frequency": 902.3, 
+        "gateways": [
+          {
+            "altitude": 440, 
+            "channel": 0, 
+            "gtw_id": "eui-240ac4ffff308f78", 
+            "latitude": -33.11341, 
+            "longitude": -64.32847, 
+            "rf_chain": 0, 
+            "rssi": -66, 
+            "snr": 9, 
+            "time": "", 
+            "timestamp": 863192597
+          }
+        ], 
+        "modulation": "LORA", 
+        "time": "2019-12-09T14:36:29.116120861Z"
+      }, 
+      "payload_raw": "VGVtcGVyYXR1cmUgOiAyOSwgSHVtaWRpdHkgOiA4MA==", 
+      "port": 1
+    }, 
+    "topic": "fonexa/devices/arduino-uno/up"
+  }, 
+  {
+    "payload": {
+      "app_id": "fonexa", 
+      "counter": 0, 
+      "dev_id": "arduino-uno", 
+      "hardware_serial": "00FCE00CDF7BBDE6", 
+      "is_retry": true, 
+      "metadata": {
+        "airtime": 92416000, 
+        "coding_rate": "4/5", 
+        "data_rate": "SF7BW125", 
+        "frequency": 902.3, 
+        "gateways": [
+          {
+            "altitude": 440, 
+            "channel": 0, 
+            "gtw_id": "eui-240ac4ffff308f78", 
+            "latitude": -33.11341, 
+            "longitude": -64.32847, 
+            "rf_chain": 0, 
+            "rssi": -103, 
+            "snr": 9, 
+            "time": "", 
+            "timestamp": 895400530
+          }
+        ], 
+        "modulation": "LORA", 
+        "time": "2019-12-09T14:37:01.319561352Z"
+      }, 
+      "payload_raw": "VGVtcGVyYXR1cmUgOiAyOSwgSHVtaWRpdHkgOiA4MA==", 
+      "port": 1
+    }, 
+    "topic": "fonexa/devices/arduino-uno/up"
+  }, 
+  {
+    "payload": {
+      "app_id": "fonexa", 
+      "counter": 0, 
+      "dev_id": "arduino-uno", 
+      "hardware_serial": "00FCE00CDF7BBDE6", 
+      "is_retry": true, 
+      "metadata": {
+        "airtime": 92416000, 
+        "coding_rate": "4/5", 
+        "data_rate": "SF7BW125", 
+        "frequency": 902.3, 
+        "gateways": [
+          {
+            "altitude": 440, 
+            "channel": 0, 
+            "gtw_id": "eui-240ac4ffff308f78", 
+            "latitude": -33.11341, 
+            "longitude": -64.32847, 
+            "rf_chain": 0, 
+            "rssi": -107, 
+            "snr": 6, 
+            "time": "", 
+            "timestamp": 926313416
+          }
+        ], 
+        "modulation": "LORA", 
+        "time": "2019-12-09T14:37:32.581051671Z"
+      }, 
+      "payload_raw": "VGVtcGVyYXR1cmUgOiAyOSwgSHVtaWRpdHkgOiA4MA==", 
+      "port": 1
+    }, 
+    "topic": "fonexa/devices/arduino-uno/up"
+  }, 
+  {
+    "payload": {
+      "app_id": "fonexa", 
+      "counter": 0, 
+      "dev_id": "arduino-uno", 
+      "hardware_serial": "00FCE00CDF7BBDE6", 
+      "is_retry": true, 
+      "metadata": {
+        "airtime": 92416000, 
+        "coding_rate": "4/5", 
+        "data_rate": "SF7BW125", 
+        "frequency": 902.3, 
+        "gateways": [
+          {
+            "altitude": 440, 
+            "channel": 0, 
+            "gtw_id": "eui-240ac4ffff308f78", 
+            "latitude": -33.11341, 
+            "longitude": -64.32847, 
+            "rf_chain": 0, 
+            "rssi": -120, 
+            "snr": -2, 
+            "time": "", 
+            "timestamp": 989968528
+          }
+        ], 
+        "modulation": "LORA", 
+        "time": "2019-12-09T14:38:35.892625057Z"
+      }, 
+      "payload_raw": "VGVtcGVyYXR1cmUgOiAyOSwgSHVtaWRpdHkgOiA4MA==", 
+      "port": 1
+    }, 
+    "topic": "fonexa/devices/arduino-uno/up"
+  }, 
+  {
+    "payload": {
+      "app_id": "fonexa", 
+      "counter": 0, 
+      "dev_id": "arduino-uno", 
+      "hardware_serial": "00FCE00CDF7BBDE6", 
+      "is_retry": true, 
+      "metadata": {
+        "airtime": 92416000, 
+        "coding_rate": "4/5", 
+        "data_rate": "SF7BW125", 
+        "frequency": 902.3, 
+        "gateways": [
+          {
+            "altitude": 440, 
+            "channel": 0, 
+            "gtw_id": "eui-240ac4ffff308f78", 
+            "latitude": -33.11341, 
+            "longitude": -64.32847, 
+            "rf_chain": 0, 
+            "rssi": -118, 
+            "snr": 1, 
+            "time": "", 
+            "timestamp": 1039625145
+          }
+        ], 
+        "modulation": "LORA", 
+        "time": "2019-12-09T14:39:25.550427088Z"
+      }, 
+      "payload_raw": "VGVtcGVyYXR1cmUgOiAyOSwgSHVtaWRpdHkgOiA4MA==", 
+      "port": 1
+    }, 
+    "topic": "fonexa/devices/arduino-uno/up"
+  }, 
+  {
+    "payload": {
+      "app_id": "fonexa", 
+      "counter": 0, 
+      "dev_id": "arduino-uno", 
+      "hardware_serial": "00FCE00CDF7BBDE6", 
+      "is_retry": true, 
+      "metadata": {
+        "airtime": 92416000, 
+        "coding_rate": "4/5", 
+        "data_rate": "SF7BW125", 
+        "frequency": 902.3, 
+        "gateways": [
+          {
+            "altitude": 440, 
+            "channel": 0, 
+            "gtw_id": "eui-240ac4ffff308f78", 
+            "latitude": -33.11341, 
+            "longitude": -64.32847, 
+            "rf_chain": 0, 
+            "rssi": -121, 
+            "snr": -2, 
+            "time": "", 
+            "timestamp": 1071368325
+          }
+        ], 
+        "modulation": "LORA", 
+        "time": "2019-12-09T14:39:57.296936999Z"
+      }, 
+      "payload_raw": "VGVtcGVyYXR1cmUgOiAyOSwgSHVtaWRpdHkgOiA4MA==", 
+      "port": 1
+    }, 
+    "topic": "fonexa/devices/arduino-uno/up"
+  }, 
+  {
+    "payload": {
+      "app_id": "fonexa", 
+      "counter": 0, 
+      "dev_id": "arduino-uno", 
+      "hardware_serial": "00FCE00CDF7BBDE6", 
+      "is_retry": true, 
+      "metadata": {
+        "airtime": 92416000, 
+        "coding_rate": "4/5", 
+        "data_rate": "SF7BW125", 
+        "frequency": 902.3, 
+        "gateways": [
+          {
+            "altitude": 440, 
+            "channel": 0, 
+            "gtw_id": "eui-240ac4ffff308f78", 
+            "latitude": -33.11341, 
+            "longitude": -64.32847, 
+            "rf_chain": 0, 
+            "rssi": -119, 
+            "snr": 0, 
+            "time": "", 
+            "timestamp": 1802911505
+          }
+        ], 
+        "modulation": "LORA", 
+        "time": "2019-12-09T14:52:08.871264189Z"
+      }, 
+      "payload_raw": "VGVtcGVyYXR1cmUgOiAyOSwgSHVtaWRpdHkgOiA4MA==", 
+      "port": 1
+    }, 
+    "topic": "fonexa/devices/arduino-uno/up"
+  }, 
+  {
+    "payload": {
+      "app_id": "fonexa", 
+      "counter": 0, 
+      "dev_id": "arduino-uno", 
+      "hardware_serial": "00FCE00CDF7BBDE6", 
+      "is_retry": true, 
+      "metadata": {
+        "airtime": 92416000, 
+        "coding_rate": "4/5", 
+        "data_rate": "SF7BW125", 
+        "frequency": 902.3, 
+        "gateways": [
+          {
+            "altitude": 440, 
+            "channel": 0, 
+            "gtw_id": "eui-240ac4ffff308f78", 
+            "latitude": -33.11341, 
+            "longitude": -64.32847, 
+            "rf_chain": 0, 
+            "rssi": -111, 
+            "snr": 7, 
+            "time": "", 
+            "timestamp": 1836817101
+          }
+        ], 
+        "modulation": "LORA", 
+        "time": "2019-12-09T14:52:42.769879165Z"
+      }, 
+      "payload_raw": "VGVtcGVyYXR1cmUgOiAyOSwgSHVtaWRpdHkgOiA4MA==", 
+      "port": 1
+    }, 
+    "topic": "fonexa/devices/arduino-uno/up"
+  }, 
+  {
+    "payload": {
+      "app_id": "fonexa", 
+      "counter": 0, 
+      "dev_id": "arduino-uno", 
+      "hardware_serial": "00FCE00CDF7BBDE6", 
+      "is_retry": true, 
+      "metadata": {
+        "airtime": 92416000, 
+        "coding_rate": "4/5", 
+        "data_rate": "SF7BW125", 
+        "frequency": 902.3, 
+        "gateways": [
+          {
+            "altitude": 440, 
+            "channel": 0, 
+            "gtw_id": "eui-240ac4ffff308f78", 
+            "latitude": -33.11341, 
+            "longitude": -64.32847, 
+            "rf_chain": 0, 
+            "rssi": -105, 
+            "snr": 8, 
+            "time": "", 
+            "timestamp": 1885124363
+          }
+        ], 
+        "modulation": "LORA", 
+        "time": "2019-12-09T14:53:31.145434747Z"
+      }, 
+      "payload_raw": "VGVtcGVyYXR1cmUgOiAyOSwgSHVtaWRpdHkgOiA4MA==", 
+      "port": 1
+    }, 
+    "topic": "fonexa/devices/arduino-uno/up"
+  }, 
+  {
+    "payload": {
+      "app_id": "fonexa", 
+      "counter": 0, 
+      "dev_id": "arduino-uno", 
+      "hardware_serial": "00FCE00CDF7BBDE6", 
+      "is_retry": true, 
+      "metadata": {
+        "airtime": 92416000, 
+        "coding_rate": "4/5", 
+        "data_rate": "SF7BW125", 
+        "frequency": 902.3, 
+        "gateways": [
+          {
+            "altitude": 440, 
+            "channel": 0, 
+            "gtw_id": "eui-240ac4ffff308f78", 
+            "latitude": -33.11341, 
+            "longitude": -64.32847, 
+            "rf_chain": 0, 
+            "rssi": -110, 
+            "snr": 7, 
+            "time": "", 
+            "timestamp": 1929591278
+          }
+        ], 
+        "modulation": "LORA", 
+        "time": "2019-12-09T14:54:15.562652404Z"
+      }, 
+      "payload_raw": "VGVtcGVyYXR1cmUgOiAyOSwgSHVtaWRpdHkgOiA4MA==", 
+      "port": 1
+    }, 
+    "topic": "fonexa/devices/arduino-uno/up"
+  }, 
+  {
+    "payload": {
+      "app_id": "fonexa", 
+      "counter": 0, 
+      "dev_id": "arduino-uno", 
+      "hardware_serial": "00FCE00CDF7BBDE6", 
+      "is_retry": true, 
+      "metadata": {
+        "airtime": 92416000, 
+        "coding_rate": "4/5", 
+        "data_rate": "SF7BW125", 
+        "frequency": 902.3, 
+        "gateways": [
+          {
+            "altitude": 440, 
+            "channel": 0, 
+            "gtw_id": "eui-240ac4ffff308f78", 
+            "latitude": -33.11341, 
+            "longitude": -64.32847, 
+            "rf_chain": 0, 
+            "rssi": -113, 
+            "snr": 6, 
+            "time": "", 
+            "timestamp": 1961320228
+          }
+        ], 
+        "modulation": "LORA", 
+        "time": "2019-12-09T14:54:47.285362629Z"
+      }, 
+      "payload_raw": "VGVtcGVyYXR1cmUgOiAyOSwgSHVtaWRpdHkgOiA4MA==", 
+      "port": 1
+    }, 
+    "topic": "fonexa/devices/arduino-uno/up"
+  }, 
+  {
+    "payload": {
+      "app_id": "fonexa", 
+      "counter": 0, 
+      "dev_id": "arduino-uno", 
+      "hardware_serial": "00FCE00CDF7BBDE6", 
+      "is_retry": true, 
+      "metadata": {
+        "airtime": 92416000, 
+        "coding_rate": "4/5", 
+        "data_rate": "SF7BW125", 
+        "frequency": 902.3, 
+        "gateways": [
+          {
+            "altitude": 440, 
+            "channel": 0, 
+            "gtw_id": "eui-240ac4ffff308f78", 
+            "latitude": -33.11341, 
+            "longitude": -64.32847, 
+            "rf_chain": 0, 
+            "rssi": -115, 
+            "snr": 5, 
+            "time": "", 
+            "timestamp": 1988405433
+          }
+        ], 
+        "modulation": "LORA", 
+        "time": "2019-12-09T14:55:14.395112858Z"
+      }, 
+      "payload_raw": "VGVtcGVyYXR1cmUgOiAyOSwgSHVtaWRpdHkgOiA4MA==", 
+      "port": 1
+    }, 
+    "topic": "fonexa/devices/arduino-uno/up"
+  }, 
+  {
+    "payload": {
+      "app_id": "fonexa", 
+      "counter": 0, 
+      "dev_id": "arduino-uno", 
+      "hardware_serial": "00FCE00CDF7BBDE6", 
+      "is_retry": true, 
+      "metadata": {
+        "airtime": 92416000, 
+        "coding_rate": "4/5", 
+        "data_rate": "SF7BW125", 
+        "frequency": 902.3, 
+        "gateways": [
+          {
+            "altitude": 440, 
+            "channel": 0, 
+            "gtw_id": "eui-240ac4ffff308f78", 
+            "latitude": -33.11341, 
+            "longitude": -64.32847, 
+            "rf_chain": 0, 
+            "rssi": -118, 
+            "snr": 1, 
+            "time": "", 
+            "timestamp": 2023514423
+          }
+        ], 
+        "modulation": "LORA", 
+        "time": "2019-12-09T14:55:49.778165231Z"
+      }, 
+      "payload_raw": "VGVtcGVyYXR1cmUgOiAyOSwgSHVtaWRpdHkgOiA4MA==", 
+      "port": 1
+    }, 
+    "topic": "fonexa/devices/arduino-uno/up"
+  }, 
+  {
+    "payload": {
+      "app_id": "fonexa", 
+      "counter": 0, 
+      "dev_id": "arduino-uno", 
+      "hardware_serial": "00FCE00CDF7BBDE6", 
+      "is_retry": true, 
+      "metadata": {
+        "airtime": 92416000, 
+        "coding_rate": "4/5", 
+        "data_rate": "SF7BW125", 
+        "frequency": 902.3, 
+        "gateways": [
+          {
+            "altitude": 440, 
+            "channel": 0, 
+            "gtw_id": "eui-240ac4ffff308f78", 
+            "latitude": -33.11341, 
+            "longitude": -64.32847, 
+            "rf_chain": 0, 
+            "rssi": -122, 
+            "snr": -3, 
+            "time": "", 
+            "timestamp": 2067568329
+          }
+        ], 
+        "modulation": "LORA", 
+        "time": "2019-12-09T14:56:33.594265852Z"
+      }, 
+      "payload_raw": "VGVtcGVyYXR1cmUgOiAyOSwgSHVtaWRpdHkgOiA4MA==", 
+      "port": 1
+    }, 
+    "topic": "fonexa/devices/arduino-uno/up"
+  }, 
+  {
+    "payload": {
+      "app_id": "fonexa", 
+      "counter": 0, 
+      "dev_id": "arduino-uno", 
+      "hardware_serial": "00FCE00CDF7BBDE6", 
+      "is_retry": true, 
+      "metadata": {
+        "airtime": 92416000, 
+        "coding_rate": "4/5", 
+        "data_rate": "SF7BW125", 
+        "frequency": 902.3, 
+        "gateways": [
+          {
+            "altitude": 440, 
+            "channel": 0, 
+            "gtw_id": "eui-240ac4ffff308f78", 
+            "latitude": -33.11341, 
+            "longitude": -64.32847, 
+            "rf_chain": 0, 
+            "rssi": -122, 
+            "snr": -7, 
+            "time": "", 
+            "timestamp": 2783033445
+          }
+        ], 
+        "modulation": "LORA", 
+        "time": "2019-12-09T15:08:29.030857718Z"
+      }, 
+      "payload_raw": "VGVtcGVyYXR1cmUgOiAyOSwgSHVtaWRpdHkgOiA4MA==", 
+      "port": 1
+    }, 
+    "topic": "fonexa/devices/arduino-uno/up"
+  }, 
+  {
+    "payload": {
+      "app_id": "fonexa", 
+      "counter": 0, 
+      "dev_id": "arduino-uno", 
+      "hardware_serial": "00FCE00CDF7BBDE6", 
+      "is_retry": true, 
+      "metadata": {
+        "airtime": 92416000, 
+        "coding_rate": "4/5", 
+        "data_rate": "SF7BW125", 
+        "frequency": 902.3, 
+        "gateways": [
+          {
+            "altitude": 440, 
+            "channel": 0, 
+            "gtw_id": "eui-240ac4ffff308f78", 
+            "latitude": -33.11341, 
+            "longitude": -64.32847, 
+            "rf_chain": 0, 
+            "rssi": -119, 
+            "snr": 0, 
+            "time": "", 
+            "timestamp": 2823893743
+          }
+        ], 
+        "modulation": "LORA", 
+        "time": "2019-12-09T15:09:09.938170871Z"
+      }, 
+      "payload_raw": "VGVtcGVyYXR1cmUgOiAyOSwgSHVtaWRpdHkgOiA4MA==", 
+      "port": 1
+    }, 
+    "topic": "fonexa/devices/arduino-uno/up"
+  }, 
+  {
+    "payload": {
+      "app_id": "fonexa", 
+      "counter": 0, 
+      "dev_id": "arduino-uno", 
+      "hardware_serial": "00FCE00CDF7BBDE6", 
+      "is_retry": true, 
+      "metadata": {
+        "airtime": 92416000, 
+        "coding_rate": "4/5", 
+        "data_rate": "SF7BW125", 
+        "frequency": 902.3, 
+        "gateways": [
+          {
+            "altitude": 440, 
+            "channel": 0, 
+            "gtw_id": "eui-240ac4ffff308f78", 
+            "latitude": -33.11341, 
+            "longitude": -64.32847, 
+            "rf_chain": 0, 
+            "rssi": -116, 
+            "snr": 3, 
+            "time": "", 
+            "timestamp": 2839974426
+          }
+        ], 
+        "modulation": "LORA", 
+        "time": "2019-12-09T15:09:25.989800517Z"
+      }, 
+      "payload_raw": "VGVtcGVyYXR1cmUgOiAyOSwgSHVtaWRpdHkgOiA4MA==", 
+      "port": 1
+    }, 
+    "topic": "fonexa/devices/arduino-uno/up"
+  }, 
+  {
+    "payload": {
+      "app_id": "fonexa", 
+      "counter": 0, 
+      "dev_id": "arduino-uno", 
+      "hardware_serial": "00FCE00CDF7BBDE6", 
+      "is_retry": true, 
+      "metadata": {
+        "airtime": 92416000, 
+        "coding_rate": "4/5", 
+        "data_rate": "SF7BW125", 
+        "frequency": 902.3, 
+        "gateways": [
+          {
+            "altitude": 440, 
+            "channel": 0, 
+            "gtw_id": "eui-240ac4ffff308f78", 
+            "latitude": -33.11341, 
+            "longitude": -64.32847, 
+            "rf_chain": 0, 
+            "rssi": -112, 
+            "snr": 5, 
+            "time": "", 
+            "timestamp": 2864172018
+          }
+        ], 
+        "modulation": "LORA", 
+        "time": "2019-12-09T15:09:50.164310992Z"
+      }, 
+      "payload_raw": "VGVtcGVyYXR1cmUgOiAyOSwgSHVtaWRpdHkgOiA4MA==", 
+      "port": 1
+    }, 
+    "topic": "fonexa/devices/arduino-uno/up"
+  }, 
+  {
+    "payload": {
+      "app_id": "fonexa", 
+      "counter": 0, 
+      "dev_id": "arduino-uno", 
+      "hardware_serial": "00FCE00CDF7BBDE6", 
+      "is_retry": true, 
+      "metadata": {
+        "airtime": 92416000, 
+        "coding_rate": "4/5", 
+        "data_rate": "SF7BW125", 
+        "frequency": 902.3, 
+        "gateways": [
+          {
+            "altitude": 440, 
+            "channel": 0, 
+            "gtw_id": "eui-240ac4ffff308f78", 
+            "latitude": -33.11341, 
+            "longitude": -64.32847, 
+            "rf_chain": 0, 
+            "rssi": -120, 
+            "snr": 0, 
+            "time": "", 
+            "timestamp": 2927724749
+          }
+        ], 
+        "modulation": "LORA", 
+        "time": "2019-12-09T15:10:53.756762044Z"
+      }, 
+      "payload_raw": "VGVtcGVyYXR1cmUgOiAyOSwgSHVtaWRpdHkgOiA4MA==", 
+      "port": 1
+    }, 
+    "topic": "fonexa/devices/arduino-uno/up"
+  }, 
+  {
+    "payload": {
+      "app_id": "fonexa", 
+      "counter": 0, 
+      "dev_id": "arduino-uno", 
+      "hardware_serial": "00FCE00CDF7BBDE6", 
+      "is_retry": true, 
+      "metadata": {
+        "airtime": 92416000, 
+        "coding_rate": "4/5", 
+        "data_rate": "SF7BW125", 
+        "frequency": 902.3, 
+        "gateways": [
+          {
+            "altitude": 440, 
+            "channel": 0, 
+            "gtw_id": "eui-240ac4ffff308f78", 
+            "latitude": -33.11341, 
+            "longitude": -64.32847, 
+            "rf_chain": 0, 
+            "rssi": -116, 
+            "snr": 5, 
+            "time": "", 
+            "timestamp": 2942860418
+          }
+        ], 
+        "modulation": "LORA", 
+        "time": "2019-12-09T15:11:08.86042287Z"
+      }, 
+      "payload_raw": "VGVtcGVyYXR1cmUgOiAyOSwgSHVtaWRpdHkgOiA4MA==", 
+      "port": 1
+    }, 
+    "topic": "fonexa/devices/arduino-uno/up"
+  }, 
+  {
+    "payload": {
+      "app_id": "fonexa", 
+      "counter": 0, 
+      "dev_id": "arduino-uno", 
+      "hardware_serial": "00FCE00CDF7BBDE6", 
+      "is_retry": true, 
+      "metadata": {
+        "airtime": 92416000, 
+        "coding_rate": "4/5", 
+        "data_rate": "SF7BW125", 
+        "frequency": 902.3, 
+        "gateways": [
+          {
+            "altitude": 440, 
+            "channel": 0, 
+            "gtw_id": "eui-240ac4ffff308f78", 
+            "latitude": -33.11341, 
+            "longitude": -64.32847, 
+            "rf_chain": 0, 
+            "rssi": -117, 
+            "snr": 0, 
+            "time": "", 
+            "timestamp": 2972506246
+          }
+        ], 
+        "modulation": "LORA", 
+        "time": "2019-12-09T15:11:38.546081806Z"
+      }, 
+      "payload_raw": "VGVtcGVyYXR1cmUgOiAyOSwgSHVtaWRpdHkgOiA4MA==", 
+      "port": 1
+    }, 
+    "topic": "fonexa/devices/arduino-uno/up"
+  }, 
+  {
+    "payload": {
+      "app_id": "fonexa", 
+      "counter": 0, 
+      "dev_id": "arduino-uno", 
+      "hardware_serial": "00FCE00CDF7BBDE6", 
+      "is_retry": true, 
+      "metadata": {
+        "airtime": 92416000, 
+        "coding_rate": "4/5", 
+        "data_rate": "SF7BW125", 
+        "frequency": 902.3, 
+        "gateways": [
+          {
+            "altitude": 440, 
+            "channel": 0, 
+            "gtw_id": "eui-240ac4ffff308f78", 
+            "latitude": -33.11341, 
+            "longitude": -64.32847, 
+            "rf_chain": 0, 
+            "rssi": -110, 
+            "snr": 7, 
+            "time": "", 
+            "timestamp": 3025577183
+          }
+        ], 
+        "modulation": "LORA", 
+        "time": "2019-12-09T15:12:31.632795866Z"
+      }, 
+      "payload_raw": "VGVtcGVyYXR1cmUgOiAyOSwgSHVtaWRpdHkgOiA4MA==", 
+      "port": 1
+    }, 
+    "topic": "fonexa/devices/arduino-uno/up"
+  }, 
+  {
+    "payload": {
+      "app_id": "fonexa", 
+      "counter": 0, 
+      "dev_id": "arduino-uno", 
+      "hardware_serial": "00FCE00CDF7BBDE6", 
+      "is_retry": true, 
+      "metadata": {
+        "airtime": 92416000, 
+        "coding_rate": "4/5", 
+        "data_rate": "SF7BW125", 
+        "frequency": 902.3, 
+        "gateways": [
+          {
+            "altitude": 440, 
+            "channel": 0, 
+            "gtw_id": "eui-240ac4ffff308f78", 
+            "latitude": -33.11341, 
+            "longitude": -64.32847, 
+            "rf_chain": 0, 
+            "rssi": -120, 
+            "snr": 0, 
+            "time": "", 
+            "timestamp": 3124208793
+          }
+        ], 
+        "modulation": "LORA", 
+        "time": "2019-12-09T15:14:10.217155537Z"
+      }, 
+      "payload_raw": "VGVtcGVyYXR1cmUgOiAyOSwgSHVtaWRpdHkgOiA4MA==", 
+      "port": 1
+    }, 
+    "topic": "fonexa/devices/arduino-uno/up"
+  }, 
+  {
+    "payload": {
+      "app_id": "fonexa", 
+      "counter": 0, 
+      "dev_id": "arduino-uno", 
+      "hardware_serial": "00FCE00CDF7BBDE6", 
+      "is_retry": true, 
+      "metadata": {
+        "airtime": 92416000, 
+        "coding_rate": "4/5", 
+        "data_rate": "SF7BW125", 
+        "frequency": 902.3, 
+        "gateways": [
+          {
+            "altitude": 440, 
+            "channel": 0, 
+            "gtw_id": "eui-240ac4ffff308f78", 
+            "latitude": -33.11341, 
+            "longitude": -64.32847, 
+            "rf_chain": 0, 
+            "rssi": -116, 
+            "snr": 3, 
+            "time": "", 
+            "timestamp": 3142852468
+          }
+        ], 
+        "modulation": "LORA", 
+        "time": "2019-12-09T15:14:28.856491424Z"
+      }, 
+      "payload_raw": "VGVtcGVyYXR1cmUgOiAyOSwgSHVtaWRpdHkgOiA4MA==", 
+      "port": 1
+    }, 
+    "topic": "fonexa/devices/arduino-uno/up"
+  }, 
+  {
+    "payload": {
+      "app_id": "fonexa", 
+      "counter": 0, 
+      "dev_id": "arduino-uno", 
+      "hardware_serial": "00FCE00CDF7BBDE6", 
+      "is_retry": true, 
+      "metadata": {
+        "airtime": 92416000, 
+        "coding_rate": "4/5", 
+        "data_rate": "SF7BW125", 
+        "frequency": 902.3, 
+        "gateways": [
+          {
+            "altitude": 440, 
+            "channel": 0, 
+            "gtw_id": "eui-240ac4ffff308f78", 
+            "latitude": -33.11341, 
+            "longitude": -64.32847, 
+            "rf_chain": 0, 
+            "rssi": -115, 
+            "snr": 2, 
+            "time": "", 
+            "timestamp": 3206579400
+          }
+        ], 
+        "modulation": "LORA", 
+        "time": "2019-12-09T15:15:32.599578618Z"
+      }, 
+      "payload_raw": "VGVtcGVyYXR1cmUgOiAyOSwgSHVtaWRpdHkgOiA4MA==", 
+      "port": 1
+    }, 
+    "topic": "fonexa/devices/arduino-uno/up"
+  }, 
+  {
+    "payload": {
+      "app_id": "fonexa", 
+      "counter": 0, 
+      "dev_id": "arduino-uno", 
+      "hardware_serial": "00FCE00CDF7BBDE6", 
+      "is_retry": true, 
+      "metadata": {
+        "airtime": 92416000, 
+        "coding_rate": "4/5", 
+        "data_rate": "SF7BW125", 
+        "frequency": 902.3, 
+        "gateways": [
+          {
+            "altitude": 440, 
+            "channel": 0, 
+            "gtw_id": "eui-240ac4ffff308f78", 
+            "latitude": -33.11341, 
+            "longitude": -64.32847, 
+            "rf_chain": 0, 
+            "rssi": -118, 
+            "snr": 2, 
+            "time": "", 
+            "timestamp": 3251899092
+          }
+        ], 
+        "modulation": "LORA", 
+        "time": "2019-12-09T15:16:17.911771092Z"
+      }, 
+      "payload_raw": "VGVtcGVyYXR1cmUgOiAyOSwgSHVtaWRpdHkgOiA4MA==", 
+      "port": 1
+    }, 
+    "topic": "fonexa/devices/arduino-uno/up"
+  }, 
+  {
+    "payload": {
+      "app_id": "fonexa", 
+      "counter": 0, 
+      "dev_id": "arduino-uno", 
+      "hardware_serial": "00FCE00CDF7BBDE6", 
+      "is_retry": true, 
+      "metadata": {
+        "airtime": 92416000, 
+        "coding_rate": "4/5", 
+        "data_rate": "SF7BW125", 
+        "frequency": 902.3, 
+        "gateways": [
+          {
+            "altitude": 440, 
+            "channel": 0, 
+            "gtw_id": "eui-240ac4ffff308f78", 
+            "latitude": -33.11341, 
+            "longitude": -64.32847, 
+            "rf_chain": 0, 
+            "rssi": -116, 
+            "snr": 4, 
+            "time": "", 
+            "timestamp": 3305160779
+          }
+        ], 
+        "modulation": "LORA", 
+        "time": "2019-12-09T15:17:11.171669327Z"
+      }, 
+      "payload_raw": "VGVtcGVyYXR1cmUgOiAyOSwgSHVtaWRpdHkgOiA4MA==", 
+      "port": 1
+    }, 
+    "topic": "fonexa/devices/arduino-uno/up"
+  }, 
+  {
+    "payload": {
+      "app_id": "fonexa", 
+      "counter": 0, 
+      "dev_id": "arduino-uno", 
+      "hardware_serial": "00FCE00CDF7BBDE6", 
+      "is_retry": true, 
+      "metadata": {
+        "airtime": 92416000, 
+        "coding_rate": "4/5", 
+        "data_rate": "SF7BW125", 
+        "frequency": 902.3, 
+        "gateways": [
+          {
+            "altitude": 440, 
+            "channel": 0, 
+            "gtw_id": "eui-240ac4ffff308f78", 
+            "latitude": -33.11341, 
+            "longitude": -64.32847, 
+            "rf_chain": 0, 
+            "rssi": -120, 
+            "snr": -1, 
+            "time": "", 
+            "timestamp": 3386555855
+          }
+        ], 
+        "modulation": "LORA", 
+        "time": "2019-12-09T15:18:32.635166199Z"
+      }, 
+      "payload_raw": "VGVtcGVyYXR1cmUgOiAyOSwgSHVtaWRpdHkgOiA4MA==", 
+      "port": 1
+    }, 
+    "topic": "fonexa/devices/arduino-uno/up"
+  }, 
+  {
+    "payload": {
+      "app_id": "fonexa", 
+      "counter": 0, 
+      "dev_id": "arduino-uno", 
+      "hardware_serial": "00FCE00CDF7BBDE6", 
+      "is_retry": true, 
+      "metadata": {
+        "airtime": 92416000, 
+        "coding_rate": "4/5", 
+        "data_rate": "SF7BW125", 
+        "frequency": 902.3, 
+        "gateways": [
+          {
+            "altitude": 440, 
+            "channel": 0, 
+            "gtw_id": "eui-240ac4ffff308f78", 
+            "latitude": -33.11341, 
+            "longitude": -64.32847, 
+            "rf_chain": 0, 
+            "rssi": -121, 
+            "snr": -4, 
+            "time": "", 
+            "timestamp": 3413344344
+          }
+        ], 
+        "modulation": "LORA", 
+        "time": "2019-12-09T15:18:59.395640019Z"
+      }, 
+      "payload_raw": "VGVtcGVyYXR1cmUgOiAyOSwgSHVtaWRpdHkgOiA4MA==", 
+      "port": 1
+    }, 
+    "topic": "fonexa/devices/arduino-uno/up"
+  }, 
+  {
+    "payload": {
+      "app_id": "fonexa", 
+      "counter": 0, 
+      "dev_id": "arduino-uno", 
+      "hardware_serial": "00FCE00CDF7BBDE6", 
+      "is_retry": true, 
+      "metadata": {
+        "airtime": 92416000, 
+        "coding_rate": "4/5", 
+        "data_rate": "SF7BW125", 
+        "frequency": 902.3, 
+        "gateways": [
+          {
+            "altitude": 440, 
+            "channel": 0, 
+            "gtw_id": "eui-240ac4ffff308f78", 
+            "latitude": -33.11341, 
+            "longitude": -64.32847, 
+            "rf_chain": 0, 
+            "rssi": -121, 
+            "snr": -2, 
+            "time": "", 
+            "timestamp": 3632315320
+          }
+        ], 
+        "modulation": "LORA", 
+        "time": "2019-12-09T15:22:38.333726813Z"
+      }, 
+      "payload_raw": "VGVtcGVyYXR1cmUgOiAyOSwgSHVtaWRpdHkgOiA4MA==", 
+      "port": 1
+    }, 
+    "topic": "fonexa/devices/arduino-uno/up"
+  }, 
+  {
+    "payload": {
+      "app_id": "fonexa", 
+      "counter": 0, 
+      "dev_id": "arduino-uno", 
+      "hardware_serial": "00FCE00CDF7BBDE6", 
+      "is_retry": true, 
+      "metadata": {
+        "airtime": 92416000, 
+        "coding_rate": "4/5", 
+        "data_rate": "SF7BW125", 
+        "frequency": 902.3, 
+        "gateways": [
+          {
+            "altitude": 440, 
+            "channel": 0, 
+            "gtw_id": "eui-240ac4ffff308f78", 
+            "latitude": -33.11341, 
+            "longitude": -64.32847, 
+            "rf_chain": 0, 
+            "rssi": -122, 
+            "snr": -5, 
+            "time": "", 
+            "timestamp": 3686274831
+          }
+        ], 
+        "modulation": "LORA", 
+        "time": "2019-12-09T15:23:32.309740618Z"
+      }, 
+      "payload_raw": "VGVtcGVyYXR1cmUgOiAyOSwgSHVtaWRpdHkgOiA4MA==", 
+      "port": 1
+    }, 
+    "topic": "fonexa/devices/arduino-uno/up"
+  }, 
+  {
+    "payload": {
+      "app_id": "fonexa", 
+      "counter": 0, 
+      "dev_id": "arduino-uno", 
+      "hardware_serial": "00FCE00CDF7BBDE6", 
+      "is_retry": true, 
+      "metadata": {
+        "airtime": 92416000, 
+        "coding_rate": "4/5", 
+        "data_rate": "SF7BW125", 
+        "frequency": 902.3, 
+        "gateways": [
+          {
+            "altitude": 440, 
+            "channel": 0, 
+            "gtw_id": "eui-240ac4ffff308f78", 
+            "latitude": -33.11341, 
+            "longitude": -64.32847, 
+            "rf_chain": 0, 
+            "rssi": -122, 
+            "snr": -5, 
+            "time": "", 
+            "timestamp": 3746708530
+          }
+        ], 
+        "modulation": "LORA", 
+        "time": "2019-12-09T15:24:32.728317183Z"
+      }, 
+      "payload_raw": "VGVtcGVyYXR1cmUgOiAyOSwgSHVtaWRpdHkgOiA4MA==", 
+      "port": 1
+    }, 
+    "topic": "fonexa/devices/arduino-uno/up"
+  }, 
+  {
+    "payload": {
+      "app_id": "fonexa", 
+      "counter": 0, 
+      "dev_id": "arduino-uno", 
+      "hardware_serial": "00FCE00CDF7BBDE6", 
+      "is_retry": true, 
+      "metadata": {
+        "airtime": 92416000, 
+        "coding_rate": "4/5", 
+        "data_rate": "SF7BW125", 
+        "frequency": 902.3, 
+        "gateways": [
+          {
+            "altitude": 440, 
+            "channel": 0, 
+            "gtw_id": "eui-240ac4ffff308f78", 
+            "latitude": -33.11341, 
+            "longitude": -64.32847, 
+            "rf_chain": 0, 
+            "rssi": -117, 
+            "snr": 3, 
+            "time": "", 
+            "timestamp": 3824333011
+          }
+        ], 
+        "modulation": "LORA", 
+        "time": "2019-12-09T15:25:50.369186778Z"
+      }, 
+      "payload_raw": "VGVtcGVyYXR1cmUgOiAyOSwgSHVtaWRpdHkgOiA4MA==", 
+      "port": 1
+    }, 
+    "topic": "fonexa/devices/arduino-uno/up"
+  }, 
+  {
+    "payload": {
+      "app_id": "fonexa", 
+      "counter": 0, 
+      "dev_id": "arduino-uno", 
+      "hardware_serial": "00FCE00CDF7BBDE6", 
+      "is_retry": true, 
+      "metadata": {
+        "airtime": 92416000, 
+        "coding_rate": "4/5", 
+        "data_rate": "SF7BW125", 
+        "frequency": 902.3, 
+        "gateways": [
+          {
+            "altitude": 440, 
+            "channel": 0, 
+            "gtw_id": "eui-240ac4ffff308f78", 
+            "latitude": -33.11341, 
+            "longitude": -64.32847, 
+            "rf_chain": 0, 
+            "rssi": -120, 
+            "snr": 0, 
+            "time": "", 
+            "timestamp": 3831908653
+          }
+        ], 
+        "modulation": "LORA", 
+        "time": "2019-12-09T15:25:57.952194691Z"
+      }, 
+      "payload_raw": "VGVtcGVyYXR1cmUgOiAyOSwgSHVtaWRpdHkgOiA4MA==", 
+      "port": 1
+    }, 
+    "topic": "fonexa/devices/arduino-uno/up"
+  }, 
+  {
+    "payload": {
+      "app_id": "fonexa", 
+      "counter": 0, 
+      "dev_id": "arduino-uno", 
+      "hardware_serial": "00FCE00CDF7BBDE6", 
+      "is_retry": true, 
+      "metadata": {
+        "airtime": 92416000, 
+        "coding_rate": "4/5", 
+        "data_rate": "SF7BW125", 
+        "frequency": 902.3, 
+        "gateways": [
+          {
+            "altitude": 440, 
+            "channel": 0, 
+            "gtw_id": "eui-240ac4ffff308f78", 
+            "latitude": -33.11341, 
+            "longitude": -64.32847, 
+            "rf_chain": 0, 
+            "rssi": -113, 
+            "snr": 3, 
+            "time": "", 
+            "timestamp": 3844438247
+          }
+        ], 
+        "modulation": "LORA", 
+        "time": "2019-12-09T15:26:10.464435571Z"
+      }, 
+      "payload_raw": "VGVtcGVyYXR1cmUgOiAyOSwgSHVtaWRpdHkgOiA4MA==", 
+      "port": 1
+    }, 
+    "topic": "fonexa/devices/arduino-uno/up"
+  }, 
+  {
+    "payload": {
+      "app_id": "fonexa", 
+      "counter": 0, 
+      "dev_id": "arduino-uno", 
+      "hardware_serial": "00FCE00CDF7BBDE6", 
+      "is_retry": true, 
+      "metadata": {
+        "airtime": 92416000, 
+        "coding_rate": "4/5", 
+        "data_rate": "SF7BW125", 
+        "frequency": 902.3, 
+        "gateways": [
+          {
+            "altitude": 440, 
+            "channel": 0, 
+            "gtw_id": "eui-240ac4ffff308f78", 
+            "latitude": -33.11341, 
+            "longitude": -64.32847, 
+            "rf_chain": 0, 
+            "rssi": -107, 
+            "snr": 8, 
+            "time": "", 
+            "timestamp": 3854604197
+          }
+        ], 
+        "modulation": "LORA", 
+        "time": "2019-12-09T15:26:20.632526843Z"
+      }, 
+      "payload_raw": "VGVtcGVyYXR1cmUgOiAyOSwgSHVtaWRpdHkgOiA4MA==", 
+      "port": 1
+    }, 
+    "topic": "fonexa/devices/arduino-uno/up"
+  }, 
+  {
+    "payload": {
+      "app_id": "fonexa", 
+      "counter": 0, 
+      "dev_id": "arduino-uno", 
+      "hardware_serial": "00FCE00CDF7BBDE6", 
+      "is_retry": true, 
+      "metadata": {
+        "airtime": 92416000, 
+        "coding_rate": "4/5", 
+        "data_rate": "SF7BW125", 
+        "frequency": 902.3, 
+        "gateways": [
+          {
+            "altitude": 440, 
+            "channel": 0, 
+            "gtw_id": "eui-240ac4ffff308f78", 
+            "latitude": -33.11341, 
+            "longitude": -64.32847, 
+            "rf_chain": 0, 
+            "rssi": -90, 
+            "snr": 9, 
+            "time": "", 
+            "timestamp": 3905229936
+          }
+        ], 
+        "modulation": "LORA", 
+        "time": "2019-12-09T15:27:11.262684655Z"
+      }, 
+      "payload_raw": "VGVtcGVyYXR1cmUgOiAyOSwgSHVtaWRpdHkgOiA4MA==", 
+      "port": 1
+    }, 
+    "topic": "fonexa/devices/arduino-uno/up"
+  }, 
+  {
+    "payload": {
+      "app_id": "fonexa", 
+      "counter": 0, 
+      "dev_id": "arduino-uno", 
+      "hardware_serial": "00FCE00CDF7BBDE6", 
+      "is_retry": true, 
+      "metadata": {
+        "airtime": 92416000, 
+        "coding_rate": "4/5", 
+        "data_rate": "SF7BW125", 
+        "frequency": 902.3, 
+        "gateways": [
+          {
+            "altitude": 440, 
+            "channel": 0, 
+            "gtw_id": "eui-240ac4ffff308f78", 
+            "latitude": -33.11341, 
+            "longitude": -64.32847, 
+            "rf_chain": 0, 
+            "rssi": -74, 
+            "snr": 9, 
+            "time": "", 
+            "timestamp": 3963947351
+          }
+        ], 
+        "modulation": "LORA", 
+        "time": "2019-12-09T15:28:09.977824619Z"
+      }, 
+      "payload_raw": "VGVtcGVyYXR1cmUgOiAyOSwgSHVtaWRpdHkgOiA4MA==", 
+      "port": 1
+    }, 
+    "topic": "fonexa/devices/arduino-uno/up"
+  }, 
+  {
+    "payload": {
+      "app_id": "fonexa", 
+      "counter": 0, 
+      "dev_id": "arduino-uno", 
+      "hardware_serial": "00FCE00CDF7BBDE6", 
+      "is_retry": true, 
+      "metadata": {
+        "airtime": 92416000, 
+        "coding_rate": "4/5", 
+        "data_rate": "SF7BW125", 
+        "frequency": 902.3, 
+        "gateways": [
+          {
+            "altitude": 440, 
+            "channel": 0, 
+            "gtw_id": "eui-240ac4ffff308f78", 
+            "latitude": -33.11341, 
+            "longitude": -64.32847, 
+            "rf_chain": 0, 
+            "rssi": -93, 
+            "snr": 9, 
+            "time": "", 
+            "timestamp": 4023868064
+          }
+        ], 
+        "modulation": "LORA", 
+        "time": "2019-12-09T15:29:09.89620114Z"
+      }, 
+      "payload_raw": "VGVtcGVyYXR1cmUgOiAyOSwgSHVtaWRpdHkgOiA4MA==", 
+      "port": 1
+    }, 
+    "topic": "fonexa/devices/arduino-uno/up"
+  }, 
+  {
+    "payload": {
+      "app_id": "fonexa", 
+      "counter": 0, 
+      "dev_id": "arduino-uno", 
+      "hardware_serial": "00FCE00CDF7BBDE6", 
+      "is_retry": true, 
+      "metadata": {
+        "airtime": 92416000, 
+        "coding_rate": "4/5", 
+        "data_rate": "SF7BW125", 
+        "frequency": 902.3, 
+        "gateways": [
+          {
+            "altitude": 440, 
+            "channel": 0, 
+            "gtw_id": "eui-240ac4ffff308f78", 
+            "latitude": -33.11341, 
+            "longitude": -64.32847, 
+            "rf_chain": 0, 
+            "rssi": -85, 
+            "snr": 9, 
+            "time": "", 
+            "timestamp": 4074402948
+          }
+        ], 
+        "modulation": "LORA", 
+        "time": "2019-12-09T15:30:00.448557895Z"
+      }, 
+      "payload_raw": "VGVtcGVyYXR1cmUgOiAyOSwgSHVtaWRpdHkgOiA4MA==", 
+      "port": 1
+    }, 
+    "topic": "fonexa/devices/arduino-uno/up"
+  }, 
+  {
+    "payload": {
+      "app_id": "fonexa", 
+      "counter": 0, 
+      "dev_id": "arduino-uno", 
+      "hardware_serial": "00FCE00CDF7BBDE6", 
+      "is_retry": true, 
+      "metadata": {
+        "airtime": 92416000, 
+        "coding_rate": "4/5", 
+        "data_rate": "SF7BW125", 
+        "frequency": 902.3, 
+        "gateways": [
+          {
+            "altitude": 440, 
+            "channel": 0, 
+            "gtw_id": "eui-240ac4ffff308f78", 
+            "latitude": -33.11341, 
+            "longitude": -64.32847, 
+            "rf_chain": 0, 
+            "rssi": -101, 
+            "snr": 8, 
+            "time": "", 
+            "timestamp": 4090878059
+          }
+        ], 
+        "modulation": "LORA", 
+        "time": "2019-12-09T15:30:16.918115066Z"
+      }, 
+      "payload_raw": "VGVtcGVyYXR1cmUgOiAyOSwgSHVtaWRpdHkgOiA4MA==", 
+      "port": 1
+    }, 
+    "topic": "fonexa/devices/arduino-uno/up"
+  }, 
+  {
+    "payload": {
+      "app_id": "fonexa", 
+      "counter": 0, 
+      "dev_id": "arduino-uno", 
+      "hardware_serial": "00FCE00CDF7BBDE6", 
+      "is_retry": true, 
+      "metadata": {
+        "airtime": 92416000, 
+        "coding_rate": "4/5", 
+        "data_rate": "SF7BW125", 
+        "frequency": 902.3, 
+        "gateways": [
+          {
+            "altitude": 440, 
+            "channel": 0, 
+            "gtw_id": "eui-240ac4ffff308f78", 
+            "latitude": -33.11341, 
+            "longitude": -64.32847, 
+            "rf_chain": 0, 
+            "rssi": -84, 
+            "snr": 8, 
+            "time": "", 
+            "timestamp": 4126136350
+          }
+        ], 
+        "modulation": "LORA", 
+        "time": "2019-12-09T15:30:52.176279594Z"
+      }, 
+      "payload_raw": "VGVtcGVyYXR1cmUgOiAyOSwgSHVtaWRpdHkgOiA4MA==", 
+      "port": 1
+    }, 
+    "topic": "fonexa/devices/arduino-uno/up"
+  }
+]
